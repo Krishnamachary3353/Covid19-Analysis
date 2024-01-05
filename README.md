@@ -1,4 +1,4 @@
-# COVID-19 Data Analysis
+# COVID-19 Data Analytics
 
 This project uses the `covid19.analysis` package to analyze COVID-19 data.
 
