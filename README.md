@@ -4,10 +4,10 @@ This project uses the `covid19.analytics` package to analyze COVID-19 data.
 
 ## Getting Started
 
-First, load the `covid19.analysis` library:
+First, load the `covid19.analytics` library:
 
 ```r
-library(covid19.analysis)
+library(covid19.analytics)
 ```
 
 ## Data Collection
